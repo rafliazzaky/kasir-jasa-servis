@@ -29,6 +29,8 @@
         "VIEW_COMPILED_PATH": "/tmp",
         "CACHE_DRIVER": "array",
         "LOG_CHANNEL": "stderr",
-        "SESSION_DRIVER": "cookie"
+        "SESSION_DRIVER": "cookie",
+        "APP_URL": "https://kasir-jasa-servis-three.vercel.app",
+        "ASSET_URL": "https://kasir-jasa-servis-three.vercel.app"
     }
 }
